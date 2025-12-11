@@ -1,0 +1,8 @@
+{
+  "name": "SecureTrade C2C",
+  "description": "A secure C2C marketplace with AI-based item verification, escrow transactions, and tokenized payments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
